@@ -35,7 +35,7 @@ Matplotlib : Link https://matplotlib.org/
 images.....
 
 ????Numpy : Link http://www.numpy.org/
-
+mm
 
 PROBLEM WITH THE DATASET..
 Based on data as at 2008, 11 years ago...jow mines get depleted adn demand exced supply.... + rise of online ..
