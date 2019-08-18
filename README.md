@@ -16,15 +16,14 @@ The dataset contains sets of data for 3 varieties of the Iris flower - Sentosa, 
 50 data readings were collected for these 3 varieties under the following 4 attributes - sepal width and length and petal width and length. 
 Need to import the data, create a box plot to see the data visually.
 
-## The importance of box plot
-Its ability to show multiple sets of data visually in a small space for easy comparison. 
-
 ## Code language
 Jupyter Notebooks using Python3
 
 ## Data source
 As per url link included in project instructions: https://github.com/ianmcloughlin/datasets/raw/master/diamonds.csv
-This contains details for 53,940 diamonds for 10 variables including cut, carat, colour, clarity, depth, width + ????????
+This contains details for 53,940 diamonds for 10 variables including cut, carat, colour, clarity, depth, price, table, x and y ????????
+Cut is classified further as Premium, Good, Ideal
+????
 
 
 ## Libraries
