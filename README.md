@@ -1,5 +1,5 @@
 
-NEDS TO BE MARKDOWN 3
+NEEDS TO BE MARKDOWN 3
 # Repeat-Fundamentals-of-Data-Analysis
 Repeat project for Semester 2 Fundamentals of Data Analysis module
 
@@ -28,7 +28,9 @@ This contains details for 53,940 diamonds for 10 variables including cut, carat,
 
 
 ## Libraries
-???????Pandas : Link https://pandas.pydata.org/
+Pandas : Link https://pandas.pydata.org/
+pd
+requests
 
 Matplotlib : Link https://matplotlib.org/
 images.....
