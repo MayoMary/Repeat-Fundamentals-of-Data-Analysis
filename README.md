@@ -1,5 +1,12 @@
 
 NEEDS TO BE MARKDOWN 3
+__Bold__
+*Italics*
+
+- bullet1 
+- bullet2
+
+
 # Repeat-Fundamentals-of-Data-Analysis
 Repeat project for Semester 2 Fundamentals of Data Analysis module
 
@@ -9,6 +16,8 @@ Repeat project for Semester 2 Fundamentals of Data Analysis module
 The project is based on the Diamonds dataset. Need to create a jupyter notebook investigating the Diamonds data set.......????????using the boxplot function from the Python package matplotlib.pyplot
 
 ## Background : 
+
+
 Diamonds dataset was 
 introduced by Ronald Fischer, a british statistician and biologist in 1936. 
 Fischer developed a linear model to distingush the species from each other. 
@@ -20,7 +29,7 @@ Need to import the data, create a box plot to see the data visually.
 Jupyter Notebooks using Python3
 
 ## Data source
-As per url link included in project instructions: https://github.com/ianmcloughlin/datasets/raw/master/diamonds.csv
+As per [url link](https://github.com/ianmcloughlin/datasets/raw/master/diamonds.csv) included in project instructions: 
 This contains details for 53,940 diamonds for 10 variables including cut, carat, colour, clarity, depth, price, table, x and y ????????
 Cut is classified further as Premium, Good, Ideal
 ????
