@@ -6,7 +6,7 @@ The project is based on the Diamonds dataset. A jupyter notebook in Python 3 is 
 
 ## Describing the dataset
 This diamonds data set comes with the ggplot2 package and contains the prices and the specs for more than 50,000 diamonds collected in 2008 from diamondsc.info. Analyzing this data set is useful because diamonds are unique in the way that isn’t true of most manufactured products that we are used to buying. You can’t just put in a model number and look up the price.
-
+![image](https://github.com/MayoMary/Repeat-Fundamentals-of-Data-Analysis/blob/master/picture/All-Scales.jpg)
 
 Description of the variables(columns) in the dataset Data set. [4]
 It is a data frame with 53,940 rows and 10 variables. A description of the variables follows:
