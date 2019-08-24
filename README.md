@@ -43,3 +43,8 @@ Jupyter Notebooks using Python
 2. IO
 3. Matplotlib
 
+## How to run it:
+
+Please install the notebook, navigate into its directory. Then open command prompt/terminal from there and run the command `jupyter notebook` and this will open up a page in the browser. Click on the desired file. Now, from the `Cell` tab click `Run All`
+
+Note: Please refer to the `.ipynb` file for a detailed description
